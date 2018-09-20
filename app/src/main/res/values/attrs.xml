@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MdStyleProgress">
+        <attr name="progress_start_color" format="color"/>
+        <attr name="progress_end_color" format="color"/>
+        <attr name="progress_width" format="dimension"/>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+</resources>
